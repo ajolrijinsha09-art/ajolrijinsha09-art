@@ -1,16 +1,27 @@
-## Hi there 👋
+Hi, I'm Ajol Rijinsha 👋
 
-<!--
-**ajolrijinsha09-art/ajolrijinsha09-art** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final-year Artificial Intelligence and Data Science student.
 
-Here are some ideas to get you started:
+💻 Aspiring Web Developer passionate about building useful applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Skills I'm Learning
+
+- Python
+- SQL
+- HTML and CSS
+- JavaScript
+- Data Analytics
+
+🚀 Projects
+
+- Chat Application UI — A user interface project for a chat application.
+- Smart Energy Consumption Analytics — An energy analysis project using data visualization.
+- Smart Fisherman Safety and Tracking System — A proposed AI and IoT-based safety and tracking project.
+
+🎯 Career Goal
+
+My goal is to build useful real-world applications, improve my technical skills, and start my career in the software industry.
+
+📫 Contact
+
+- GitHub: "ajolrijinsha09-art" (https://github.com/ajolrijinsha09-art)
